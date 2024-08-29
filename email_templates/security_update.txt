@@ -1,0 +1,19 @@
+Subject: Important Security Update
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We want to inform you about an important security update for your account with [Company Name].</p>
+<p>To enhance the security of your account, please update your password by clicking the link below:<br>
+<a href="[Link]">Update Password</a></p>
+<p>If you have any questions or need assistance, our support team is here to help. Your security is our top priority.</p>
+<p>Thank you for your attention to this matter.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is dedicated to protecting your information. Contact us if you have any concerns.</p>
+</body>
+</html>
+

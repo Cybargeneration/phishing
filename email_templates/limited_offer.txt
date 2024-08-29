@@ -1,0 +1,19 @@
+Subject: Limited Time Offer Just for You
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We are excited to present you with a limited-time offer at [Company Name]! Enjoy a [Discount Percentage]% discount on all our products and services for the next [Number] days.</p>
+<p>Use the code LIMITEDTIME at checkout to avail this exclusive offer.</p>
+<p>Click the link below to start shopping:<br>
+<a href="[Link]">Shop Now</a></p>
+<p>Don't miss out on this special opportunity. If you have any questions, our customer service team is here to assist you.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] appreciates your business. Contact us with any questions or concerns.</p>
+</body>
+</html>
+

@@ -1,0 +1,24 @@
+Subject: Upcoming Event Reminder
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We wanted to remind you about the upcoming event hosted by [Company Name]. This event will feature [Event Highlights] and provide valuable insights from industry experts.</p>
+<p>Event Details:</p>
+<ul>
+    <li>Date: [Date]</li>
+    <li>Time: [Time]</li>
+    <li>Location: [Location]</li>
+</ul>
+<p>Click the link below to register:<br>
+<a href="[Link]">Register Now</a></p>
+<p>We look forward to your participation. If you have any questions, please contact our support team.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is dedicated to bringing you the latest industry insights. Contact us for more information.</p>
+</body>
+</html>
+

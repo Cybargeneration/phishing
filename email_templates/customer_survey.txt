@@ -1,0 +1,19 @@
+Subject: Customer Satisfaction Survey
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We value your opinion and would love to hear your feedback on our services. Please take a few moments to participate in our customer satisfaction survey.</p>
+<p>Click the link below to access the survey:<br>
+<a href="[Link]">Take Survey</a></p>
+<p>Your feedback helps us improve our services and better meet your needs. Thank you for your time and input.</p>
+<p>If you have any questions, please contact our support team.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] appreciates your input. Contact us with any questions or concerns.</p>
+</body>
+</html>
+

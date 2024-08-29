@@ -1,0 +1,23 @@
+Subject: Upcoming Maintenance Notice
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We would like to inform you about upcoming maintenance scheduled for your service with [Company Name].</p>
+<p>Maintenance Details:</p>
+<ul>
+    <li>Date: [Date]</li>
+    <li>Time: [Time] to [Time]</li>
+    <li>Affected Services: [Service Details]</li>
+</ul>
+<p>During this time, there may be brief interruptions in service. We apologize for any inconvenience this may cause and appreciate your understanding as we work to improve our services.</p>
+<p>If you have any questions or concerns, please contact our support team.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] values your business. Please contact us if you have any questions or concerns.</p>
+</body>
+</html>
+

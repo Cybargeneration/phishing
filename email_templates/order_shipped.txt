@@ -1,0 +1,19 @@
+Subject: Your Order Has Shipped!
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>Good news! Your order from [Company Name] has shipped and is on its way to you. We know you're excited to receive your items, and we're just as excited to deliver them to you.</p>
+<p>You can track your order using the link below:<br>
+<a href="[Link]">Track Order</a></p>
+<p>We appreciate your business and hope you enjoy your purchase. If you have any questions or need assistance, please contact our customer service team.</p>
+<p>Thank you for shopping with [Company Name]. We look forward to serving you again.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is committed to providing fast and reliable service. Contact us if you have any questions.</p>
+</body>
+</html>
+

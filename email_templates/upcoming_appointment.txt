@@ -1,0 +1,23 @@
+Subject: Reminder: Upcoming Appointment
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>This is a friendly reminder about your upcoming appointment with [Company Name].</p>
+<p>Appointment Details:</p>
+<ul>
+    <li>Date: [Date]</li>
+    <li>Time: [Time]</li>
+    <li>Location: [Location]</li>
+</ul>
+<p>If you need to reschedule or have any questions, please contact our office at [Contact Information].</p>
+<p>We look forward to seeing you soon.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] values your time. Please contact us if you need any assistance.</p>
+</body>
+</html>
+

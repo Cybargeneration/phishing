@@ -1,0 +1,18 @@
+Subject: Your Subscription Renewal Reminder
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We hope you have been enjoying your subscription with [Company Name]. As your subscription period is coming to an end, we wanted to remind you to renew it to continue enjoying uninterrupted service.</p>
+<p>To renew your subscription, please click the link below:<br>
+<a href="[Link]">Renew Now</a></p>
+<p>We appreciate your loyalty and look forward to continuing to serve you. If you have any questions, please do not hesitate to contact our support team.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is committed to providing exceptional service. Contact us with any questions or concerns.</p>
+</body>
+</html>
+

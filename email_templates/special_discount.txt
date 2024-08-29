@@ -1,0 +1,19 @@
+Subject: Special Discount for Our Valued Customers
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>As a token of our appreciation for your loyalty, we are offering you a special discount on your next purchase at [Company Name]!</p>
+<p>Use the code LOYALCUSTOMER at checkout to receive a [Discount Percentage]% discount on all products and services.</p>
+<p>Click the link below to start shopping:<br>
+<a href="[Link]">Shop Now</a></p>
+<p>Thank you for being a valued customer. We look forward to serving you again soon.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] appreciates your business. Contact us if you have any questions or need assistance.</p>
+</body>
+</html>
+

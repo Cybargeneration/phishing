@@ -1,0 +1,24 @@
+Subject: Welcome to Our Newsletter
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>Welcome to the [Company Name] newsletter! We are excited to keep you updated on the latest news, products, and special offers.</p>
+<p>In this edition, you will find:</p>
+<ul>
+    <li>Exclusive discounts and promotions</li>
+    <li>Insights from industry experts</li>
+    <li>Upcoming events and webinars</li>
+</ul>
+<p>Click the link below to read the full newsletter:<br>
+<a href="[Link]">Read Newsletter</a></p>
+<p>Thank you for subscribing. We look forward to sharing valuable information with you.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] values your interest. Contact us with any questions or feedback.</p>
+</body>
+</html>
+

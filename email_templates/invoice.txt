@@ -1,0 +1,23 @@
+Subject: Your Invoice for [Month/Year]
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>Please find attached your invoice for the month of [Month/Year]. We kindly request you to review the invoice and process the payment by the due date.</p>
+<p>Invoice Details:</p>
+<ul>
+    <li>Invoice Number: [Invoice Number]</li>
+    <li>Amount Due: [Amount Due]</li>
+    <li>Due Date: [Due Date]</li>
+</ul>
+<p>If you have any questions or concerns regarding the invoice, please feel free to contact our billing department at [Billing Department Contact Information].</p>
+<p>Thank you for your prompt attention to this matter.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is committed to providing transparent billing. Please contact us if you have any questions.</p>
+</body>
+</html>
+

@@ -1,0 +1,23 @@
+Subject: Welcome to Acme Corp!
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We are thrilled to welcome you to Acme Corp! As a new member of our community, we are committed to providing you with the best services and support.</p>
+<p>Our team has been working hard to ensure that your onboarding experience is smooth and enjoyable. We have compiled a list of resources that will help you get started:</p>
+<ul>
+    <li>Getting Started Guide: <a href="[Link]">Download Here</a></li>
+    <li>Customer Support Portal: <a href="[Link]">Visit Portal</a></li>
+    <li>FAQ: <a href="[Link]">Read FAQs</a></li>
+</ul>
+<p>We encourage you to explore these resources and reach out to our support team if you have any questions or need assistance.</p>
+<p>Your satisfaction is our top priority, and we are here to help you make the most of your experience with Acme Corp.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>Acme Corp is committed to your satisfaction. If you have any issues or concerns, please contact us immediately.</p>
+</body>
+</html>
+

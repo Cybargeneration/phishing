@@ -1,0 +1,19 @@
+Subject: Exclusive Offer Just for You!
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We are excited to present you with an exclusive offer as a valued customer of [Company Name]!</p>
+<p>For a limited time, you can enjoy a [Discount Percentage]% discount on all our products and services. Use the code EXCLUSIVE20 at checkout to avail this offer.</p>
+<p>Click the link below to start shopping:<br>
+<a href="[Link]">Shop Now</a></p>
+<p>Don't miss out on this opportunity to save big on your favorite items. If you have any questions or need assistance, our customer service team is here to help.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] appreciates your loyalty. Contact us if you have any questions or need further assistance.</p>
+</body>
+</html>
+

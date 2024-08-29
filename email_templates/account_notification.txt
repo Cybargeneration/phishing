@@ -1,0 +1,19 @@
+Subject: Important Account Notification
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We are writing to inform you of an important update regarding your account with [Company Name].</p>
+<p>Please log in to your account to review the details of this update:<br>
+<a href="[Link]">Log In</a></p>
+<p>If you have any questions or need assistance, our support team is here to help. Your satisfaction is our priority.</p>
+<p>Thank you for your attention to this matter.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is dedicated to providing the best service. Contact us if you have any concerns.</p>
+</body>
+</html>
+

@@ -1,0 +1,24 @@
+Subject: Your Account Has Been Upgraded
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We are excited to inform you that your account with [Company Name] has been upgraded! You now have access to premium features and enhanced support.</p>
+<p>New Features:</p>
+<ul>
+    <li>Priority Support: Get faster response times and dedicated support.</li>
+    <li>Exclusive Content: Access premium articles, videos, and more.</li>
+    <li>Advanced Tools: Utilize our latest tools and resources to boost your productivity.</li>
+</ul>
+<p>Click the link below to explore your upgraded account:<br>
+<a href="[Link]">Explore Now</a></p>
+<p>Thank you for being a valued customer. We look forward to continuing to serve you with the best possible experience.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is committed to providing exceptional service. Contact us with any questions or concerns.</p>
+</body>
+</html>
+

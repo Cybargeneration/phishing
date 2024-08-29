@@ -1,0 +1,19 @@
+Subject: Your Feedback Matters to Us
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>At [Company Name], we value your feedback and are constantly striving to improve our services. We would love to hear your thoughts on your recent experience with us.</p>
+<p>Please take a few moments to complete our survey by clicking the link below:<br>
+<a href="[Link]">Take Survey</a></p>
+<p>Your input helps us serve you better and ensures that we meet your expectations. Thank you for your time and feedback.</p>
+<p>If you have any questions, please contact our support team.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] values your opinion. Contact us with any questions or concerns.</p>
+</body>
+</html>
+

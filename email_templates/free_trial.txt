@@ -1,0 +1,19 @@
+Subject: Your Free Trial is Ending Soon
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We hope you have been enjoying your free trial with [Company Name]. As your trial period is coming to an end, we wanted to remind you to upgrade to continue enjoying our services.</p>
+<p>To upgrade your account, please click the link below:<br>
+<a href="[Link]">Upgrade Now</a></p>
+<p>If you have any questions or need assistance, our support team is here to help.</p>
+<p>Thank you for choosing [Company Name]. We look forward to continuing to serve you.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] values your business. Contact us with any questions or concerns.</p>
+</body>
+</html>
+

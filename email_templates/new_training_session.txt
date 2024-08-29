@@ -1,0 +1,24 @@
+Subject: New Training Session Available
+
+<html>
+<body>
+<p>Dear [Name],</p>
+<p>We are pleased to announce a new training session available at [Company Name]. This session will cover the latest techniques and best practices in [Industry/Field].</p>
+<p>Training Session Details:</p>
+<ul>
+    <li>Date: [Date]</li>
+    <li>Time: [Time]</li>
+    <li>Location: [Location]</li>
+</ul>
+<p>Click the link below to register:<br>
+<a href="[Link]">Register Now</a></p>
+<p>We look forward to your participation and helping you advance your skills.</p>
+<p>Best regards,<br>
+[My Name]<br>
+[Company Name]<br>
+[Number]</p>
+<hr>
+<p>[Company Name] is committed to your professional growth. Contact us with any questions or concerns.</p>
+</body>
+</html>
+
